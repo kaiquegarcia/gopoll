@@ -5,7 +5,7 @@ This project doesn't have any purpose. I did this just to study how to do some s
 With this project I:
 
 - learned how to use [AlecAivazis/survey@v2](https://github.com/AlecAivazis/survey/v2) (deprecated);
-- discovered [charmbracelet/bubbletea/](https://github.com/charmbracelet/bubbletea/) (Alec's recomendation).
+- discovered [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea/) (Alec's recomendation).
 
 All of this gave some ideas. For example, with BubbleTea I can do a CLI chat integrated with an existing system, like Discord, Telegram, whatever. My understanding about both projects, for now, is:
 
